@@ -1,4 +1,4 @@
-Symfony Demo Application
+Symfony Portfolio Web Application
 ========================
 
 A version of my website using the Symfony PHP Framework to help with learning modern PHP web development.
